@@ -46,15 +46,54 @@
 | Deep Learning | [DeepLearning](https://github.com/IaOksana/DeepLearning) | Набор Jupyter notebooks по ML/DL, включая sentiment analysis и итоговый проект. | Python, Jupyter, библиотеки ML/DL определяются внутри notebooks | `IO_Sentiment.ipynb`, `dz_topic_4/6/8/10/12_*.ipynb`, `final_project_*.ipynb` | Экспериментальные notebooks, preprocessing/training/evaluation workflow и sentiment baseline. | Исследование моделей, EDA, обучение/оценка нейросетей, демонстрация ML-портфолио. |
 | Другое | [first-repo](https://github.com/IaOksana/first-repo) | Минимальный тестовый репозиторий для проверки Git/GitHub. | Python | `main.py` | Простой smoke test окружения и Git workflow. | Проверка clone/commit/push; теперь также центральный каталог проектов. |
 
-## Colab notebooks на Google Drive
+## Colab / Jupyter notebooks на Google Drive
 
-Содержательные ноутбуки, найденные в приватной папке `Colab Notebooks` (в GitHub пока не опубликованы):
+В приватной папке `Colab Notebooks` найдено **40 файлов `.ipynb`**. Ниже перечислены все названия; содержимое файлов в публичный GitHub не переносилось.
 
-| Категория | Файл | Задача | Как открыть |
+| Группа | Файл | Статус | Изменён |
 |---|---|---|---|
-| Defense CV / Deep Learning | `drones_test.ipynb` | Исследование датасетов и подходов к детекции малых БПЛА. | Google Drive → `Colab Notebooks` → открыть через Google Colab. |
-| Defense CV / Deep Learning | `birds_test.ipynb` | Подготовка bird-датасета и проверка YOLO для различения птиц и дронов. | Google Drive → `Colab Notebooks` → открыть через Google Colab. |
-| Deep Learning | `Оптимізація_гіперпараметрів.ipynb` | Подбор гиперпараметров нейросетевой модели. | Google Drive → `Colab Notebooks` → открыть через Google Colab. |
+| Defense CV | `drones_test.ipynb` | Ноутбук | 2026-05-20 |
+| Defense CV | `birds_test.ipynb` | Ноутбук | 2026-05-20 |
+| ML / Deep Learning | `Оптимізація_гіперпараметрів.ipynb` | Ноутбук | 2025-09-02 |
+| ML / Deep Learning | `Copy of Tema 3_4_LogRegr_Pytorch_M.ipynb` | Копия | 2025-07-19 |
+| ML / Deep Learning | `Copy of Tema 3_4_LogRegr_Pytorch_M.ipynb` | Копия | 2025-07-19 |
+| Numerical Methods | `ДЗ8_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-07-18 |
+| ML / Deep Learning | `mod_05_topic_09_ensembles.ipynb` | Ноутбук | 2025-07-18 |
+| ML / Deep Learning | `Module_7_Lecture_14_Class.ipynb` | Ноутбук | 2025-07-13 |
+| ML / Deep Learning | `Module_1_Lecture_2_Class.ipynb` | Ноутбук | 2025-07-13 |
+| ML / Deep Learning | `Module_1_Lecture_2_Class.ipynb` | Ноутбук | 2025-07-13 |
+| Учебные Jupyter notebooks | `Untitled1.ipynb` | Пустой/черновик | 2025-05-27 |
+| Numerical Methods | `ДЗ12_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-05-04 |
+| Numerical Methods | `ДЗ11_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-05-04 |
+| Numerical Methods | `ДЗ10_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-05-03 |
+| Numerical Methods | `ДЗ9_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-05-03 |
+| Numerical Methods | `ДЗ7_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-05-01 |
+| Numerical Methods | `ДЗ6_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-04-29 |
+| Numerical Methods | `ДЗ5_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-04-28 |
+| Numerical Methods | `ДЗ4_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-04-27 |
+| Numerical Methods | `ДЗ3_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-04-27 |
+| Numerical Methods | `ДЗ2_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-04-27 |
+| Numerical Methods | `ДЗ1_ЯщукОксана_ЧисельніМетоди.ipynb` | Ноутбук | 2025-04-27 |
+| Учебные Jupyter notebooks | `ДЗ1_ЯщукОксана.ipynb` | Ноутбук | 2025-04-27 |
+| Учебные Jupyter notebooks | `Copy of Untitled1.ipynb` | Копия | 2025-04-26 |
+| Учебные Jupyter notebooks | `Untitled0.ipynb` | Пустой/черновик | 2025-01-30 |
+| Учебные Jupyter notebooks | `ДЗ10_ЯщукОксана.ipynb` | Ноутбук | 2025-01-04 |
+| Учебные Jupyter notebooks | `ДЗ9_ЯщукОксана.ipynb` | Ноутбук | 2025-01-03 |
+| Учебные Jupyter notebooks | `ДЗ8_ЯщукОксана.ipynb` | Ноутбук | 2024-12-22 |
+| Учебные Jupyter notebooks | `Copy of ДЗ7_ЯщукОксана.ipynb` | Копия | 2024-12-15 |
+| Учебные Jupyter notebooks | `ДЗ7_ЯщукОксана.ipynb` | Ноутбук | 2024-12-15 |
+| Учебные Jupyter notebooks | `ДЗ6_ЯщукОксана.ipynb` | Ноутбук | 2024-12-06 |
+| Учебные Jupyter notebooks | `ДЗ5_ЯщукОксана.ipynb` | Ноутбук | 2024-12-05 |
+| Учебные Jupyter notebooks | `ДЗ4_ЯщукОксана.ipynb` | Ноутбук | 2024-11-30 |
+| Учебные Jupyter notebooks | `ДЗ3_ЯщукОксана.ipynb` | Ноутбук | 2024-11-30 |
+| Учебные Jupyter notebooks | `Copy of ДЗ3_ЯщукОксана.ipynb` | Копия | 2024-11-30 |
+| Учебные Jupyter notebooks | `ДЗ3_ЯщукОксана.ipynb` | Ноутбук | 2024-11-30 |
+| Учебные Jupyter notebooks | `Copy of ДЗ2_ЯщукОксана.ipynb` | Копия | 2024-11-27 |
+| Учебные Jupyter notebooks | `ДЗ2_ЯщукОксана.ipynb` | Ноутбук | 2024-11-16 |
+| Учебные Jupyter notebooks | `Copy of ДЗ1_ЯщукОксана.ipynb` | Копия | 2024-11-13 |
+| Учебные Jupyter notebooks | `Copy of Home work 1 - Template.ipynb` | Копия | 2024-11-12 |
+
+Как открыть: Google Drive → `Colab Notebooks` → выбрать файл → открыть через Google Colab.
 
 ## Быстрый выбор
 
