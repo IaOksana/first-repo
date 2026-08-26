@@ -46,6 +46,16 @@
 | Deep Learning | [DeepLearning](https://github.com/IaOksana/DeepLearning) | Набор Jupyter notebooks по ML/DL, включая sentiment analysis и итоговый проект. | Python, Jupyter, библиотеки ML/DL определяются внутри notebooks | `IO_Sentiment.ipynb`, `dz_topic_4/6/8/10/12_*.ipynb`, `final_project_*.ipynb` | Экспериментальные notebooks, preprocessing/training/evaluation workflow и sentiment baseline. | Исследование моделей, EDA, обучение/оценка нейросетей, демонстрация ML-портфолио. |
 | Другое | [first-repo](https://github.com/IaOksana/first-repo) | Минимальный тестовый репозиторий для проверки Git/GitHub. | Python | `main.py` | Простой smoke test окружения и Git workflow. | Проверка clone/commit/push; теперь также центральный каталог проектов. |
 
+## Colab notebooks на Google Drive
+
+Содержательные ноутбуки, найденные в приватной папке `Colab Notebooks` (в GitHub пока не опубликованы):
+
+| Категория | Файл | Задача | Как открыть |
+|---|---|---|---|
+| Defense CV / Deep Learning | `drones_test.ipynb` | Исследование датасетов и подходов к детекции малых БПЛА. | Google Drive → `Colab Notebooks` → открыть через Google Colab. |
+| Defense CV / Deep Learning | `birds_test.ipynb` | Подготовка bird-датасета и проверка YOLO для различения птиц и дронов. | Google Drive → `Colab Notebooks` → открыть через Google Colab. |
+| Deep Learning | `Оптимізація_гіперпараметрів.ipynb` | Подбор гиперпараметров нейросетевой модели. | Google Drive → `Colab Notebooks` → открыть через Google Colab. |
+
 ## Быстрый выбор
 
 - **Для алгоритмического портфолио:** `goit-algo-fp`, `goit-algo-hw-06`, `goit-algo-hw-10`.
